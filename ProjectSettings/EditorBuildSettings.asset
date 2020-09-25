@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 5405c2af404230241960d0640051e8ea
+  - enabled: 1
+    path: Assets/Dowloands/Sahne/_Barking_Dog/3D Free Modular Kit/Test_Map.unity
+    guid: 7b533dfe561bc47c8975c955fe4ef3d3
   m_configObjects: {}
